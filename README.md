@@ -10,4 +10,4 @@ The following steps outline how to execute the project. Please note that this pr
    - Download and install Miniconda from the official website: [Miniconda Installation](https://docs.conda.io/en/latest/miniconda.html)
    - Follow the installation instructions for your operating system.
 
-2. After installing Miniconda, open the **terminal** and create a new environment using the following command:
+2. After installing Miniconda, ```open``` the **terminal** and create a new environment using the following command:
