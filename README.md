@@ -4,7 +4,7 @@ This project focuses on implementing a machine learning model for predicting the
 
 ## 2. How-To Run ?
 
-The following steps outline how to execute the project. Please note that this process requires the installation of **Miniconda**. **Miniconda** is a minimal installer for **Conda**, a package management system and environment management tool.
+The following steps outline one methode to execute the project. Please note that this process requires the installation of **Miniconda**. **Miniconda** is a minimal installer for **Conda**, a package management system and environment management tool.
 
 1. **Install Miniconda:**
    - Download and install Miniconda from the official website: [Miniconda Installation](https://docs.conda.io/en/latest/miniconda.html)
