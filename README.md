@@ -20,7 +20,7 @@ The following steps outline one methode to execute the project. Please note that
 5. soccerdata is a package which is not included in the **Conda** libery to install use following command:
    ```pip install soccerdata```
 6. After successfully installing all packages you can open the jupyter notebook and run the project.
-   -to run the project use following command:
+   - to run the project use following command:
    ```jupyter notebook```
       
 
