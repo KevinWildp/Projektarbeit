@@ -12,17 +12,17 @@ Die folgenden Schritte beschreiben eine Methode zur Ausführung des Projekts. Bi
    - Folgen Sie den Installationsanweisungen für Ihr Betriebssystem.
 
 2. Nachdem Sie Miniconda installiert haben, öffnen Sie das **Terminal** und erstellen Sie eine neue Umgebung mit dem folgenden Befehl:
-   ``conda create --name myenv python=3.8```
+   ```conda create --name myenv python=3.8```
 
 3. Aktivieren Sie die Umgebung:
    ```conda activate myenv```
 4. Um das Projekt zu starten muessen folgende Pakete installiert werden: numpy, pandas, matplotlib, scikit-learn, pip, soccerdata
-    ``conda install numpy, pandas, matplotlib, scikit-learn, pip``
+    ``conda install numpy, pandas, matplotlib, scikit-learn, pip, seaborn``
 5. soccerdata ist ein Paket, das nicht in der **Conda**-Libery enthalten ist und mit folgendem Befehl installiert werden kann:
    ```pip install soccerdata```
 6. Nach erfolgreicher Installation aller Pakete können Sie das Jupyter-Notebook öffnen und das Projekt starten.
    - Um das Projekt zu starten, verwenden Sie den folgenden Befehl:
-   ```jupyter notebook``
+   ```jupyter notebook```
       
 
 
