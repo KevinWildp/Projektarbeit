@@ -23,7 +23,7 @@ Die folgenden Schritte beschreiben eine Methode zur Ausführung des Projekts. Bi
 6. Nach erfolgreicher Installation aller Pakete können Sie das Jupyter-Notebook öffnen und das Projekt starten.
    - Um das Projekt zu starten, verwenden Sie den folgenden Befehl:
    ```jupyter notebook```
-7. Um das Projekt erfolgreich laufen zu lassen, muss moch die addtional_train.csv heruntergeladen und in das Projekt eingebunden werden(7. Zeile)
+7. Um das Projekt erfolgreich laufen zu lassen, muss moch die addtional_train.csv heruntergeladen und in das Projekt eingebunden werden(7. Zeile). <br>
    **WICHTIG ohne diesen Schritt wird es auch bei erfolgreicher Ausgührung der vorherigen Schritte eine Fehlermeldung geben**
 
 
