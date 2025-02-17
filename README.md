@@ -18,11 +18,12 @@ Die folgenden Schritte beschreiben eine Methode zur Ausführung des Projekts. Bi
    ```conda activate myenv```
 4. Um das Projekt zu starten muessen folgende Pakete installiert werden: numpy, pandas, matplotlib, scikit-learn, pip, soccerdata
     ``conda install numpy, pandas, matplotlib, scikit-learn, pip, seaborn``
-5. Ebenfalls gibt es Pakete 2 Pakete, welche nicht in der **Conda**-Libery enthalten sind und mit folgendem Befehl installiert werden kann:
+5. Ebenfalls gibt es 2 Pakete, welche nicht in der **Conda**-Libery enthalten sind und mit folgendem Befehl installiert werden müssen:
    ```pip install soccerdata``` & ```pip install beautifulsoup4```
 6. Nach erfolgreicher Installation aller Pakete können Sie das Jupyter-Notebook öffnen und das Projekt starten.
    - Um das Projekt zu starten, verwenden Sie den folgenden Befehl:
    ```jupyter notebook```
-      
+7. Um das Projekt erfolgreich laufen zu lassen, muss moch die addtional_train.csv heruntergeladen und in das Projekt eingebunden werden(7. Zeile)
+   **WICHTIG ohne diesen Schritt wird es auch bei erfolgreicher Ausgührung der vorherigen Schritte eine Fehlermeldung geben**
 
 
