@@ -16,7 +16,7 @@ Die folgenden Schritte beschreiben eine Methode zur Ausführung des Projekts. Bi
 
 3. Aktivieren Sie die Umgebung:
    ```conda activate myenv```
-4. Um das Projekt zu starten muessen folgende Pakete installiert werden: numpy, pandas, matplotlib, scikit-learn, pip, soccerdata
+4. Um das Projekt zu starten muessen folgende Pakete installiert werden: numpy, pandas, matplotlib, scikit-learn, pip, seaborn
     ``conda install numpy, pandas, matplotlib, scikit-learn, pip, seaborn``
 5. Ebenfalls gibt es 2 Pakete, welche nicht in der **Conda**-Libery enthalten sind und mit folgendem Befehl installiert werden müssen:
    ```pip install soccerdata``` & ```pip install beautifulsoup4```
