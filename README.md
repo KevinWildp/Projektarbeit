@@ -25,7 +25,7 @@ Die folgenden Schritte beschreiben eine Methode zur Ausführung des Projekts. Bi
       ```jupyter notebook```
 7. Öffnen Sie nun die **Projektarbeit** Datei aus dem Repository 
 
-8. Um das Projekt erfolgreich laufen zu lassen, muss moch die addtional_train.csv heruntergeladen und in das Projekt eingebunden werden(7. Zeile). <br>
+8. Um das Projekt erfolgreich laufen zu lassen, muss noch die addtional_train.csv heruntergeladen und in das Projekt eingebunden werden(7. Zeile). <br>
    **WICHTIG ohne diesen Schritt wird es auch bei erfolgreicher Ausführung der vorherigen Schritte eine Fehlermeldung geben**
 
 
